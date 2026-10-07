@@ -23,7 +23,6 @@
 
 - 🥁 [**Vib-Tatsuji**](https://github.com/ramn100dev/Vib-Tatsuji) — Taiko no Tatsujin-style rhythm engine for the **real PlayStation 2** in C. Loads open-taiko `.tja` songs from USB, audio-clocked charts, real drum support. Runs on hardware, not just PCSX2.
 - 🩸 [**Hyprkill**](https://github.com/ramn100dev/Hyprkill) — My Hyprland rice inspired by **ULTRAKILL**. Dots + `install.sh` for a clean Arch install.
-- 🖨️ [**PrinTracker**](https://github.com/ramn100dev/PrinTracker) — Automatic print counter + pricing for a copy shop. Reads the Windows spooler, classifies ink / sides / size / paper, groups client sessions, daily totals + monthly calendar in €.
 - 💿 [**ps2hddtui**](https://github.com/ramn100dev/ps2hdd-tui) — [**hdl-dump**](https://github.com/AKuHAK/hdl-dump) TUI for easy PS2 HDD games management 
 
 ---
