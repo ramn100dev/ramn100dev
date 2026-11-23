@@ -21,6 +21,7 @@
 ### FEATURED PROJECTS
 
 
+- 📚 [**Rensaigo**](https://github.com/ramn100dev/rensaigo) — Self-hosted manga manager: follow a series and new chapters download on their own from **Mihon extensions**. Go core + on-demand JVM host, built-in reader, OPDS and tracking.
 - 🥁 [**Vib-Tatsuji**](https://github.com/ramn100dev/Vib-Tatsuji) — Taiko no Tatsujin-style rhythm engine for the **real PlayStation 2** in C. Loads open-taiko `.tja` songs from USB, audio-clocked charts, real drum support. Runs on hardware, not just PCSX2.
 - 🩸 [**Hyprkill**](https://github.com/ramn100dev/Hyprkill) — My Hyprland rice inspired by **ULTRAKILL**. Dots + `install.sh` for a clean Arch install.
 - 💿 [**ps2hddtui**](https://github.com/ramn100dev/ps2hdd-tui) — [**hdl-dump**](https://github.com/AKuHAK/hdl-dump) TUI for easy PS2 HDD games management
